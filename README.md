@@ -1,16 +1,5 @@
 # flutter_application_3
 
-A new Flutter project.
+pada Re task 2 flutter widget ini saya tetap membuat project yang terinspirasi dari aplikasi twitter namun saya kembangkan lagi sehingga lebih rapi dan menambah beberapa widget seperti pada tugas sebelumnya saya tidak membuat listview sehingga tidak bisa di scrool namun sekarang sudah saya tambahkan sehingga dapat di scrool
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot (244)](https://user-images.githubusercontent.com/54989440/134511533-f59665a4-23fe-46ef-8ef5-fdb62c254ffa.png)
